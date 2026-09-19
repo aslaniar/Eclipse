@@ -1,4 +1,4 @@
-# Sunrise
+# Eclipse
 
 This is a fork of stanuwu's Sunrise repo with my own extensions, including a fully functional one player external server, content runs outside the process instead of inside of it. Alongside the server, I've also added full subclass and ability swap functionality that the server agrees with.
 Disclaimer: This repo is heavily AI authored.
@@ -56,77 +56,12 @@ Destiny 2 Offline Exploration Mod
 - [Common Issues](https://github.com/stanuwu/Sunrise/wiki/Common-Issues)
 - [Discord](https://discord.gg/22JS6et5k9)
 
-## Features
-- Load into any Destination (matchmade activities are currently broken)
-- Exploration Features (Fly, Noclip, Activity Override, ...)
-- Basic Inventory Management
-
-- **ADDED IN THIS FORK**: Full subclass and ability swap functionality
-
 ## WIP
 
 This mod is work in progress. Things might break or work in unexpected ways. There is also currently
 a lack of documentation. This will improve over the coming weeks.
 
-## Support Me
-
-Leave a star on this repo.
-
-If you want to support my open source work you can find the means on my
-[profile](https://github.com/stanuwu). Also consider donating to charity instead.
-
-All content released under this project is free and open source. If someone is trying to sell you
-something you are getting scammed.
-
-## Rules
-Issues are for bug reports only.
-
-PRs are for pull requests only.
-
-Do not go and argue/chat there, you can do that on the discord.
-
-## Contributing
-
-Pull Requests are welcome. Please follow these rules:
-
-- **No Copyrighted Data** - All game data should be extracted at runtime.
-- **Code Formatting** - Stick to the provided clang-format and clang-tidy configs.
-- **Clean Code** - Try to post readable high quality code, follow the projects existing style of
-  comment and add docs.
-- **Provide Documentation** - Please explain what you changed, why you changed it and the effects it
-  has in detail, it saves me a lot of work.
-- **Follow Up** - If something with the PR is not right, I will reply and ask you to fix it.
-- **One Feature** - Do not put multiple features into one PR.
-- **Complete Implementations** - Do not PR features that are not completed and/or have non functional parts.
-- **Server Focus** - For features that are intended to be part of the server, don't abuse client patches. Sometimes its needed but mostly everything should go through the right requests and pushes.
-
 ## Credits
-
-### All Contributors
-
-### Dependencies:
-
-- https://github.com/ocornut/imgui
-- https://github.com/microsoft/detours
-
-### Artwork:
-
-- [Solus](https://www.youtube.com/@Solus-yt)
-
-### Testing:
-
-- [Ferr](https://x.com/light_fades_awy)
-- [gage](https://x.com/_Quolu_)
-- [Jenka](https://youtube.com/@jenkad2oob?si=OQpCGeBCEJBS0zHx)
-- [Katie](https://github.com/Confetti3)
-- [Kody Ivie](https://x.com/Kody_Ivie)
-- [Solus](https://www.youtube.com/@Solus-yt)
-- Breshi
-- [Deltadog55](https://www.youtube.com/@deltadog55)
-- Moosh
-- [MoveableFormula](https://youtube.com/@movableformula)
-- Z
-- The Cube17
 
 ### Inspiration/Helpful Repos
 
@@ -150,19 +85,6 @@ Pull Requests are welcome. Please follow these rules:
 - https://github.com/cohaereo/destinydocs
 - https://github.com/MontagueM/DestinyUnpacker
 
-### Other:
-
-- [Ginsor](https://x.com/GinsorKR) - Gave me some useful pointers
-
-> Want to be added to or removed from the credits? Let me know.
-
-## Content Disclaimer
-
-Sunrise is not:
-
-- A Crack
-- A Cheat
-- A Custom Server
 
 Everyone needs to provide their own copy of the game, no piracy is happening. The mod does not
 connect to any servers, it runs completely locally. We do not offer any servers or services.
